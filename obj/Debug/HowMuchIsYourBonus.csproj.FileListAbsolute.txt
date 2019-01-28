@@ -1,0 +1,7 @@
+C:\Users\mrlma\source\repos\HowMuchIsYourBonus\HowMuchIsYourBonus\bin\Debug\HowMuchIsYourBonus.exe.config
+C:\Users\mrlma\source\repos\HowMuchIsYourBonus\HowMuchIsYourBonus\bin\Debug\HowMuchIsYourBonus.exe
+C:\Users\mrlma\source\repos\HowMuchIsYourBonus\HowMuchIsYourBonus\bin\Debug\HowMuchIsYourBonus.pdb
+C:\Users\mrlma\source\repos\HowMuchIsYourBonus\HowMuchIsYourBonus\obj\Debug\HowMuchIsYourBonus.csprojAssemblyReference.cache
+C:\Users\mrlma\source\repos\HowMuchIsYourBonus\HowMuchIsYourBonus\obj\Debug\HowMuchIsYourBonus.csproj.CoreCompileInputs.cache
+C:\Users\mrlma\source\repos\HowMuchIsYourBonus\HowMuchIsYourBonus\obj\Debug\HowMuchIsYourBonus.exe
+C:\Users\mrlma\source\repos\HowMuchIsYourBonus\HowMuchIsYourBonus\obj\Debug\HowMuchIsYourBonus.pdb
