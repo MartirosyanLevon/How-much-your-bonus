@@ -11,7 +11,7 @@ namespace HowMuchIsYourBonus
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Write your experience");
+            Console.WriteLine("Write your experience of work");
             byte years = Convert.ToByte(Console.ReadLine());
             int salary = 150000;
             if ((years > 0) && (years < 5))
